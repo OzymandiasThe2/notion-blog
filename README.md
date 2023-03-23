@@ -28,4 +28,4 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 The [MIT License](LICENSE).
 
 ## Ackknowldgements
-This project was adapted and froked from https://github.com/morethanmin/morethan-log 
+This project was adapted and forked  from https://github.com/morethanmin/morethan-log 
