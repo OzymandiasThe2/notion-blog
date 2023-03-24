@@ -19,8 +19,9 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "shriji-blog",
-    description: "welcome to Shriji's Blog!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    description: "Welcome to Shriji's Blog!",
+    theme: "dark", // ['light', 'dark', 'auto'// ]
+    resume: "https://blog.shrijishah.com/resume"
   },
 
   // CONFIG configuration (required)
