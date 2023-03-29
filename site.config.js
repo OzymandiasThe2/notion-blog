@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "shriji-blog",
-    description: "Welcome to Shriji's Blog!",
+    title: "Shriji's Blog",
+    description: "Shriji Shah is a tech enthusiast with expertise in IT security and a passion for the TTRPGs. Explore my nerdy IT projects and hopefully get inspired.",
     theme: "dark", // ['light', 'dark', 'auto'// ]
     resume: "https://blog.shrijishah.com/resume"
   },
