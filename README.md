@@ -7,8 +7,11 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 [Blog](https://blog.shrijishah.com) | [Resume](https://blog.shrijishah.com/resume)
 
 TODO: 
-- [] Implement component for resume
-- 
+- [x] Implement component for resume
+- [ ] Figure out why Google SEO won't update my meta description and favicon image. 
+- [ ] Fix Cusdis not working
+- [ ] Implement reCAPTCHA for comments so comments can't get bot spammed
+- [ ] Dark/Light Mode selector
 
 ## Features
 
